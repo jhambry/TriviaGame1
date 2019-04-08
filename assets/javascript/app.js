@@ -97,8 +97,8 @@ var game = {
     $("#sub-wrapper h2").remove();
 
     card.html("<h2>All Done!</h2>");
-    card.append("<h3>Correct Answers: " + this.correct + "</h3>");
-    card.append("<h3>Incorrect Answers: " + this.incorrect + "</h3>");
+    card.append("<h3>Correct: " + this.correct + "</h3>");
+    card.append("<h3>Incorrect: " + this.incorrect + "</h3>");
   }
 };
 
