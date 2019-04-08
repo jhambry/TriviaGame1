@@ -96,7 +96,7 @@ var game = {
 
     $("#sub-wrapper h2").remove();
 
-    card.html("<h2>All Done!</h2>");
+    card.html("<h2>Game Over!</h2>");
     card.append("<h3>Correct: " + this.correct + "</h3>");
     card.append("<h3>Incorrect: " + this.incorrect + "</h3>");
   }
