@@ -23,7 +23,7 @@ var questions = [
   },
   {
     question: "What Is The Name Of The Italian Restaurant The Gang Frequent?",
-    answers: ["Gino's", "Milo's", "Luigi's", "Guigino's"],
+    answers: ["Gino's", "Guigino's", "Luigi's", "Milo's"],
     correctAnswer: "Guigino's"
   },
   {
@@ -33,7 +33,7 @@ var questions = [
   },
   {
     question: "Which High School Did The Male Members Of The Gang Attend?",
-    answers: ["St. John's Preparatory School", "St. Edmund's Preparatory School", "St. Mark's Preparatory School", "St. Joseph's Preparatory School"],
+    answers: ["St. Joseph's Preparatory School", "St. Edmund's Preparatory School", "St. Mark's Preparatory School", "St. John's Preparatory School"],
     correctAnswer: "St. Joseph's Preparatory School"
   },
   {
